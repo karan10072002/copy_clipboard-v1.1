@@ -26,3 +26,6 @@ press shift and right click on a file or folder and take a screen shot and crop 
     DELETE the existing .png files in the folder (these are for example).
     
 And the programm is ready for use.
+
+link to .exe file:
+    https://drive.google.com/open?id=1DnoZmylFqbdruxeU3ybIByCOognfEc0W
